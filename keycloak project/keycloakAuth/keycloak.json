@@ -1,0 +1,11 @@
+{
+    "realm": "keycloak_auth",
+    "auth-server-url": "http://0.0.0.0:8080/auth",
+    "ssl-required": "external",
+    "resource": "keycloak_admin",
+    "credentials": {
+      "secret": "ZbdJYNKAu198AqOdmJubQEy8KgRhbsYw"
+    },
+    "confidential-port": 0
+  }
+  
